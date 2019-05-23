@@ -4,6 +4,8 @@ bbb
 冲突已解决，by xuechong 20190523-1
 我是娜娜的模拟用户
 我是分支nana
+娜娜创建了一个fix_hot分支
 master做的
 nana做了更改
 nana2
+
